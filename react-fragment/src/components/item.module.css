@@ -1,0 +1,16 @@
+.kg-span{
+    font-weight: 400;
+    color: blue;
+}
+
+
+.kg-item{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(187, 185, 185, 0.3);
+}
+
+.Button:hover{
+    background-color: green;
+}
